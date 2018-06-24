@@ -1,10 +1,13 @@
-# Top Skills
+Some data visualization plots I made
 
-![](TopSkills.png)
+# Evictions Rates Dashboard
+![](Eviction-Dashboard1.png)
+
 
 # Top Skills Dashboard
 
 ![](TopSkillsDashboard.png)
 
-# Evictions Rates Dashboard
-![](Eviction-Dashboard1.png)
+# Top Skills
+
+![](TopSkills.png)
