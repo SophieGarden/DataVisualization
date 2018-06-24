@@ -1,13 +1,12 @@
 Some data visualization plots I made
 
-# Evictions Rates Dashboard
-![](Eviction-Dashboard1.png)
+# Renter Evictions Rates Plots
+![](Renter-Eviction-Story2.png)
 
+![](Renter-Eviction-Story4.png)
 
-# Top Skills Dashboard
+# Top skills that get you hired plots
 
 ![](TopSkillsDashboard.png)
-
-# Top Skills
 
 ![](TopSkills.png)
